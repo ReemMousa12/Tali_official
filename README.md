@@ -127,17 +127,4 @@ Tali showcases events from renowned artists and venues including:
 - Special showcase events
 - Collaborations and special occasions
 
-## Code Quality
 
-The project uses ESLint for code linting. Run `npm run lint` to check for code quality issues.
-
-## Performance
-
-- Optimized video loading with preloader progress indication
-- Lazy loading of components
-- Efficient state management with React Query
-- Responsive image handling
-
-## License
-
-This project is private.
